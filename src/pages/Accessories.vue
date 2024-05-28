@@ -52,4 +52,8 @@ h3 {
     margin-top: 110px;
 }
 
+.home-product {
+    margin-bottom: 20px;
+}
+
 </style>
