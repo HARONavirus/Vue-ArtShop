@@ -2,6 +2,15 @@
 
 https://drive.google.com/file/d/1tkrOsQy8WFpLVdU6f02rN_I8c74_GOO4/view?usp=sharing
 
+# Технологии
+
+- Vue3
+- Vue-router
+- Vue-carousel
+- Axios
+- @formkit/auto-animate
+- Composition API / Options API
+
 # Инструкция по запуску
 
 1 - Скачать LTS версию Node.js
