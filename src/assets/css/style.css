@@ -1,0 +1,12 @@
+:root{
+    --bg-color: #fff;
+    --text-color: #fff;
+    --hover-color: #fff;
+    --start-color: #0575E6;
+    --end-color: #021B79;
+    --p-color: #929DA6;
+    --button-background: grey;
+    --input-background: #E5E4E2;
+    --radius-50: 50px;
+    --padding-15: 15px;
+}
