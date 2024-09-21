@@ -17,7 +17,7 @@ const { filteredItemsFav } = inject('filter');
                     <InfoBlock 
                     title="У вас пока что-то нет закладок" 
                     description="Добавьте хотя бы один костюм в закладки."
-                    imageUrl="src/assets/img/background-icons/sad-smile-icon.png"
+                    imageUrl="https://i.postimg.cc/3rs3PkND/sad-smile-icon.png"
                     imageHeight="100"
                     imageWidth="100"
                     />
@@ -30,10 +30,7 @@ const { filteredItemsFav } = inject('filter');
 
 <style scoped>
 body {
-    min-height: 65vh; 
-    margin: 0; 
-    display: grid;
-    grid-template-rows: 1fr auto;
+    height: 100%;
 }
 
 h3 {

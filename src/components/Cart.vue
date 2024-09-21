@@ -59,7 +59,7 @@ const emit = defineEmits(['createOrder'])
             <InfoBlock
             title="Корзина пустая" 
             description="Добавьте хотя бы один костюм, чтобы сделать заказ."
-            imageUrl="src/assets/img/background-icons/package-icon.png"
+            imageUrl="https://i.postimg.cc/QM0Psyqy/package-icon.png"
             imageHeight="90"
             imageWidth="90"
             />
@@ -69,7 +69,7 @@ const emit = defineEmits(['createOrder'])
             <InfoBlock
             title="Заказ успешно выполнен" 
             description="Ждём вас в нашем магазине для примерки."
-            imageUrl="src/assets/img/background-icons/done-icon.png"
+            imageUrl="https://i.postimg.cc/vBTKmtqH/done-icon.png"
             imageHeight="120"
             imageWidth="120"
             />

@@ -66,7 +66,7 @@ const doneRemoveFromCart = () => {
             <InfoBlock
             title="Товар успешно добавлен в корзину" 
             description="Перейдите в корзину для оформления заказа."
-            imageUrl="src/assets/img/background-icons/done-icon.png"
+            imageUrl="https://i.postimg.cc/vBTKmtqH/done-icon.png"
             imageHeight="120"
             imageWidth="120"
             />
@@ -74,7 +74,7 @@ const doneRemoveFromCart = () => {
         <div v-if="removeFromCartDone && !isAdded" class="removeFromCart-done">
             <InfoBlock
             title="Товар успешно удален из корзины"
-            imageUrl="src/assets/img/background-icons/done-icon.png"
+            imageUrl="https://i.postimg.cc/vBTKmtqH/done-icon.png"
             imageHeight="120"
             imageWidth="120"
             />

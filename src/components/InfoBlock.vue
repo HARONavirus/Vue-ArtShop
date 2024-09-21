@@ -6,6 +6,7 @@ defineProps({
     imageHeight: Number,
     imageWidth: Number
 })
+
 </script>
 
 <template>

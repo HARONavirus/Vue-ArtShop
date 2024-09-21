@@ -24,7 +24,7 @@ const filteredItems = computed(() => {
                     <InfoBlock 
                     title="На данный момент в нашем магазине отсутствуют брюки" 
                     description="Брюки появятся в скором времени."
-                    imageUrl="src/assets/img/background-icons/pants-icon.png"
+                    imageUrl="https://i.postimg.cc/K4SpJSZR/pants-icon.png"
                     imageHeight="220"
                     imageWidth="220"
                     />

@@ -28,7 +28,7 @@ onMounted(async () => {
                     <InfoBlock 
                     title="У нас пока что-то нет отзывов" 
                     description="Напишите наш первый отзыв."
-                    imageUrl="src/assets/img/background-icons/reviews-icon.png"
+                    imageUrl="https://i.postimg.cc/kM6n1QJm/reviews-icon.png"
                     imageHeight="180"
                     imageWidth="220"
                     />

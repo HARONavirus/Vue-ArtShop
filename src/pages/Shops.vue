@@ -14,7 +14,7 @@ const coin = true
                     <InfoBlock 
                     title="Наши магазины пока что не открылись" 
                     description="Будем рады видеть вас на открытии."
-                    imageUrl="src/assets/img/background-icons/shop-icon.png"
+                    imageUrl="https://i.postimg.cc/hGtn9xyN/shop-icon.png"
                     imageHeight="130"
                     imageWidth="220"
                     />

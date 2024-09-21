@@ -39,7 +39,7 @@ const toggleExtensionPricePopup = (acc) => {
                     <InfoBlock 
                     title="На данный момент услуга проката не работает" 
                     description="Мы уведомим Вас о начале работы проката."
-                    imageUrl="src/assets/img/background-icons/rental-icon.png"
+                    imageUrl="https://i.postimg.cc/sgysgbpj/rental-icon.png"
                     imageHeight="120"
                     imageWidth="120"
                     />

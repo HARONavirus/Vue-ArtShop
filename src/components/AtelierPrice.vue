@@ -5,13 +5,13 @@ import 'vue3-carousel/dist/carousel.css'
 
 const slides = [
     {
-        image: "src/assets/img/price-slider-1.png"
+        image: "https://i.postimg.cc/bwXfFW60/price-slider-1.png"
     },
     {
-        image: "src/assets/img/price-slider-2.png"
+        image: "https://i.postimg.cc/ZKvhH4LK/price-slider-2.png"
     },
     {
-        image: "src/assets/img/price-slider-3.png"
+        image: "https://i.postimg.cc/g2vb9s5C/price-slider-3.png"
     }
 ]
 
