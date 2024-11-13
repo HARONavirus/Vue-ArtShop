@@ -20,3 +20,5 @@
 - ESLint
 - Prettier
 - TailwindCSS
+
+UPD: в скором времени планирую мегрировать проект на Nuxt
